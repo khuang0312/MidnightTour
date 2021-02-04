@@ -36,6 +36,7 @@ a, div, span, footer {
 
 a:hover {
     color : blue;
+    cursor: pointer;
 }
 
 figure {
