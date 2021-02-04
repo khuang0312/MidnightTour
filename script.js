@@ -10,7 +10,6 @@ updateCopyright();
 // FUNCTIONS //
 function changeImage(inc) {
     // this allows us to change the slides
-    console.log(slideIndex + inc);
     slideIndex += inc;
 
     switch (slideIndex) {
