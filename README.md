@@ -1,7 +1,7 @@
 # MidnightTour
 This is a webpage showing a simple photo gallery of my online friend's midnight walk through Zürich, Switzerland.
 
-![alt text](https://github.com/khuang0312/MidnightTour/blob/main/images/screenshot.png?raw=true)
+![alt text](https://github.com/khuang0312/MidnightTour/blob/main/images/screenshot.PNG?raw=true)
 
 In order to access the site, click the link below.
 https://khuang0312.github.io/MidnightTour/.
